@@ -1,0 +1,28 @@
+#root {
+  padding: 10px;
+}
+
+#container {
+  display: flex;
+  flex-direction: column;
+  min-height: 95vh;
+  justify-content: space-between;
+}
+
+.event_container {
+
+}
+
+
+
+#event_list {
+  min-height: 400px;
+}
+
+.event_title {
+  margin-top: 10px;
+}
+
+#pagination {
+  align-self: center;
+}
